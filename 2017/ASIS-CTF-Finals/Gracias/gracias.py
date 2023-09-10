@@ -1,4 +1,4 @@
-#!/usr/bin/python
+https://github.com/capsulesocial/capsule-vue/issues/958#issuecomment-1157654296!/usr/bin/python
 
 from gmpy import *
 from Crypto.Util.number import *
